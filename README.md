@@ -42,13 +42,13 @@ Other scripts: `npm run build`, `npm run lint`, `npm run format`.
 
 Content is YAML and Markdown — no React needed to contribute.
 
-| Where | What |
-|---|---|
-| `content/services/` | Citizen-facing services, by category |
-| `content/government/departments/` | Department and office pages |
-| `src/data/government.yaml` | Government section structure |
-| `src/data/services.yaml` | Service categories and structure |
-| `src/i18n/locales/` | UI strings (English, Filipino) |
+| Where                             | What                                 |
+| --------------------------------- | ------------------------------------ |
+| `content/services/`               | Citizen-facing services, by category |
+| `content/government/departments/` | Department and office pages          |
+| `src/data/government.yaml`        | Government section structure         |
+| `src/data/services.yaml`          | Service categories and structure     |
+| `src/i18n/locales/`               | UI strings (English, Filipino)       |
 
 See [CONTENT-MANAGEMENT.md](CONTENT-MANAGEMENT.md) for a step-by-step guide that
 assumes no technical background, and [CONTENT-GUIDE.md](CONTENT-GUIDE.md) for
